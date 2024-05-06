@@ -62,7 +62,8 @@ print('RMSE= ',rmse)
 ```
 
 ## Output:
-![1](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/dd0ca0ae-1636-45b7-bdb8-49c1357af1fc)
+### Y_Prediction:
+![image](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/fa9aaddc-d1ae-4ef6-b01f-a49438e843a1)
 ![2](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/4a0e96ff-0024-4c52-a74a-00b4de54f3ba)
 ![3](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/4b526774-585f-4ce7-b160-c3f89e5d8992)
 
