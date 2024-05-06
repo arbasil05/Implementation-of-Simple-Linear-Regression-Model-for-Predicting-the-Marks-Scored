@@ -8,12 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-#### 1.Import the standard Libraries.
-#### 2.Set variables for assigning dataset values.
-#### 3.Import linear regression from sklearn.
-#### 4.Assign the points for representing in the graph.
-#### 5.Predict the regression for marks by using the representation of the graph.
-#### 6.Compare the graphs and hence we obtained the linear regression for the given datas.
+#### Step 1: Import the standard Libraries.
+#### Step 2: Set variables for assigning dataset values.
+#### Step 3: Import linear regression from sklearn.
+#### Step 4: Assign the points for representing in the graph.
+#### Step 5: Predict the regression for marks by using the representation of the graph.
+#### Step 6: Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
 ```
@@ -64,8 +64,11 @@ print('RMSE= ',rmse)
 ## Output:
 ### Y_Prediction:
 ![image](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/fa9aaddc-d1ae-4ef6-b01f-a49438e843a1)
-![2](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/4a0e96ff-0024-4c52-a74a-00b4de54f3ba)
-![3](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/4b526774-585f-4ce7-b160-c3f89e5d8992)
+### Output graphs:
+![image](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/58d1d5d7-540c-4e17-b720-f3fe414257a2)
+
+![image](https://github.com/arbasil05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144218037/39c3cb3c-c15b-4bd2-bb7c-07429d29dab0)
+
 
 
 
